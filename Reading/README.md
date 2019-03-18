@@ -9,5 +9,6 @@ Notes: "The computer didn't care that I was a woman or that I was black" My favo
 * Oral-History:Elsie Shutt. Jan 12, 2015. Engineering and Technology History https://ethw.org/Oral-History:Elsie_Shutt
 * Grace Murray Hopper. The Compiler, MIT. https://lemelson.mit.edu/resources/grace-murray-hopper Notes: She is so clever and witty.
 * Jean Sammet. By Steve Lohr. Jun 4, 2017. The New York Times https://www.nytimes.com/2017/06/04/technology/obituary-jean-sammet-software-designer-cobol.html?module=inline Notes: promise to read this before my birthday and share it on the day
+* Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History https://ethw.org/Oral-History:Frances_%22Fran%22_Allen
 
 
