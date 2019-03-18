@@ -1,4 +1,4 @@
-# WomenAreExcellentProgrammers
+# Women Are Excellent Programmers
 A list of inspirational and thought provocative reads about women in coding.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/orchid00.svg?style=social)](https://twitter.com/orchid00)
