@@ -6,4 +6,5 @@ To inspire you and make you think about this statement, I am gathering a few onl
 Notes: This read links to many other awesome reads, it moved to many preconceived ideas in me.
 * A Woman's Story, Mar. 29, 2012. http://braythwayt.com/posterous/2012/03/29/a-womans-story.html
 Notes: "The computer didn't care that I was a woman or that I was black" My favourite line.
+* Oral-History:Elsie Shutt. Jan 12, 2015. Engineering and Technology History https://ethw.org/Oral-History:Elsie_Shutt
 
