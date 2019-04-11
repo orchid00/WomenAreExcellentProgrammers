@@ -13,5 +13,9 @@ Notes: "The computer didn't care that I was a woman or that I was black" My favo
 * Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History https://ethw.org/Oral-History:Frances_%22Fran%22_Allen
 * Jean Bartik. By Steve Lohr. Apr 7, 2011. The New York Times https://www.nytimes.com/2011/04/08/business/08bartik.html?module=inline
 * Frances E. Holberton. By Steve Lohr. Dec 17, 2001. The New York Times https://www.nytimes.com/2001/12/17/business/frances-e-holberton-84-early-computer-programmer.html?module=inline
-
+* http://time.com/5568063/katie-bouman-first-image-black-hole/
+* News about Katie Bouman, the woman who develop an algorithm capable to take the first picture of a blackhole. 
+    * Black hole picture captured for first time in space breakthrough by Hannah Devlin. April 11, 2019. The Guardian https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough. 
+    * How to take a picture of a black hole | Katie Bouman. Apr 28, 2017. TED. https://www.youtube.com/watch?v=BIvezCVcsYs
+    * A method to image black holes by Larry Hardesty. Jun 6, 2016. MIT News Office http://news.mit.edu/2016/method-image-black-holes-0606
 
