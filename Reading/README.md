@@ -16,7 +16,7 @@ Notes: My favourite line: "The computer didn't care that I was a woman or that I
 
 ## Individual stories
 
-Fully recommend reading Oral histories from Engineering and Technology History wiki [https://ethw.org/Oral-History](https://ethw.org/Oral-History) Have a look a the women in there <3, here some highlights ordered by surname.
+Fully recommend reading Oral histories from Engineering and Technology History wiki [https://ethw.org/Oral-History:List_of_all_Oral_Histories](https://ethw.org/Oral-History:List_of_all_Oral_Histories). Have a look a the "Individual Oral Histories" and look for female names in there <3, here some highlights ordered by surname.
 
 * Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History 
 [https://ethw.org/Oral-History:Frances_%22Fran%22_Allen](https://ethw.org/Oral-History:Frances_%22Fran%22_Allen){:target="_blank"}.
@@ -27,6 +27,8 @@ Fully recommend reading Oral histories from Engineering and Technology History w
     * Black hole picture captured for first time in space breakthrough by Hannah Devlin. April 11, 2019. The Guardian [https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough](https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough){:target="_blank"}. 
     * How to take a picture of a black hole - Katie Bouman. Apr 28, 2017. TED. [https://www.youtube.com/watch?v=BIvezCVcsYs](https://www.youtube.com/watch?v=BIvezCVcsYs){:target="_blank"}.
     * A method to image black holes by Larry Hardesty. Jun 6, 2016. MIT News Office [http://news.mit.edu/2016/method-image-black-holes-0606](http://news.mit.edu/2016/method-image-black-holes-0606){:target="_blank"}.
+    
+* Anita Borg [https://ethw.org/Oral-History:Anita_Borg](https://ethw.org/Oral-History:Anita_Borg){:target="_blank"}.
    
 * Rosemary Candlin [https://ethw.org/Oral-History:Rosemary_Candlin](https://ethw.org/Oral-History:Rosemary_Candlin){:target="_blank"}.
 
