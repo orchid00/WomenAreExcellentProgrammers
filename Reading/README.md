@@ -1,4 +1,6 @@
-# Women are excellent Programmers
+#
+
+## Women are excellent Programmers - Reading list
 
 To inspire you and make you think about this statement, I am gathering a few online and freely accessible reads. 
 
