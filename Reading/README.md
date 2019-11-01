@@ -23,7 +23,7 @@ Notes: My favourite line: "The computer didn't care that I was a woman or that I
 doi: 10.1109/MAHC.2009.14 URL: [https://ieeexplore.ieee.org/document/4802436](https://ieeexplore.ieee.org/document/4802436){:target="_blank"}. Notes: "Jean was con-tacted by someone at Prentice Hall who suggested she write a book on Fortran. When Jean told him that she wasn’t interested in writing about Fortran, she was asked what she would like to write about. When she said she’d like to write about all program-ming languages, she was told: ‘‘Go ahead!’".
 
 * Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History 
-[https://ethw.org/Oral-History:Frances_%22Fran%22_Allen](https://ethw.org/Oral-History:Frances_%22Fran%22_Allen){:target="_blank"}.
+[https://ethw.org/Oral–History:Frances_%22Fran%22_Allen](https://ethw.org/Oral–History:Frances_%22Fran%22_Allen){:target="_blank"}.
 
 * Jean Bartik. By Steve Lohr. Apr 7, 2011. The New York Times [https://www.nytimes.com/2011/04/08/business/08bartik.html](https://www.nytimes.com/2011/04/08/business/08bartik.html){:target="_blank"}.
 
