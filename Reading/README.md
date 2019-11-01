@@ -19,6 +19,8 @@ Notes: My favourite line: "The computer didn't care that I was a woman or that I
 * Grace Murray Hopper. The Compiler, MIT. [https://lemelson.mit.edu/resources/grace-murray-hopper](https://lemelson.mit.edu/resources/grace-murray-hopper){:target="_blank"}. Notes: She is so clever and witty.
 
 * Jean Sammet. By Steve Lohr. Jun 5, 2017. The New York Times [https://www.nytimes.com/2017/06/04/technology/obituary-jean-sammet-software-designer-cobol.html?module=inline](https://www.nytimes.com/2017/06/04/technology/obituary-jean-sammet-software-designer-cobol.html?module=inline){:target="_blank"}. Notes: The mother of COBOL. [Download audio file](https://github.com/orchid00/WomenAreExcellentProgrammers/raw/master/Audio/Jean_Sammet_COBOL.mp3).
+* Jean Sammet: Programming Language Contributor and Historian, and ACM President. By Thomas J. (Tim) Bergin, American University and Editor: Thomas Haig. in IEEE Annals of the History of Computing, vol. 31, no. 1, pp. 76-85, Jan.-March 2009.
+doi: 10.1109/MAHC.2009.14 URL: [https://ieeexplore.ieee.org/document/4802436](https://ieeexplore.ieee.org/document/4802436){:target="_blank"}. Notes: "Jean was con-tacted by someone at Prentice Hall who suggested she write a book on Fortran. When Jean told him that she wasn’t interested in writing about Fortran, she was asked what she would like to write about. When she said she’d like to write about all program-ming languages, she was told: ‘‘Go ahead!’".
 
 * Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History 
 [https://ethw.org/Oral-History:Frances_%22Fran%22_Allen](https://ethw.org/Oral-History:Frances_%22Fran%22_Allen){:target="_blank"}.
