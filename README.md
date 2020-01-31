@@ -14,4 +14,4 @@ Here is a [reading list](./Reading) that I hope will be inspiring for anyone to 
 Thanks for coming by!
 
 
-_Last updated:  November 1, 2019_
+_Last updated:  January 31, 2020_
