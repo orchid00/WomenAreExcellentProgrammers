@@ -32,6 +32,8 @@ Fully recommend reading Oral histories from Engineering and Technology History w
    
 * Rosemary Candlin [https://ethw.org/Oral-History:Rosemary_Candlin](https://ethw.org/Oral-History:Rosemary_Candlin){:target="_blank"}.
 
+* Margaret Hamilton, née Margaret Heafield, computer scientist who was one of the first computer software programmers; she created the term software engineer to describe her work. She helped write the computer code for the command and lunar modules used on the Apollo missions to the Moon [https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist](https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist).
+
 * Frances E. Holberton. By Steve Lohr. Dec 17, 2001. The New York Times [https://www.nytimes.com/2001/12/17/business/frances-e-holberton-84-early-computer-programmer.html](https://www.nytimes.com/2001/12/17/business/frances-e-holberton-84-early-computer-programmer.html){:target="_blank"}.
 
 * Grace Murray Hopper. The Compiler, MIT. [https://lemelson.mit.edu/resources/grace-murray-hopper](https://lemelson.mit.edu/resources/grace-murray-hopper){:target="_blank"}. Notes: She is so clever and witty.
