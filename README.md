@@ -2,7 +2,7 @@
 
 ## Women Are Excellent Programmers
 
-A list of inspirational and thought-provocative reads about women in coding.
+A list of inspirational and thought-provocative [reads about women who code](https://orchid00.github.io/WomenAreExcellentProgrammers/Reading/).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/orchid00.svg?style=social)](https://twitter.com/orchid00)
 
@@ -14,4 +14,4 @@ Here is a [reading list](./Reading) that I hope will be inspiring for anyone to 
 Thanks for coming by!
 
 
-_Last updated:  January 31, 2020_
+_Last updated:  April 28, 2020_
