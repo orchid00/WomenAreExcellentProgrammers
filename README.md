@@ -12,7 +12,7 @@ Here is a [reading list](./Reading) that I hope will be inspiring for anyone to 
 
 Thanks for coming by!
 
-[[Twitter Follow](https://img.shields.io/twitter/follow/orchid00.svg?style=social)](https://twitter.com/orchid00)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/orchid00.svg?style=social)](https://twitter.com/orchid00) 
 
 
 _Last updated:  April 28, 2020_
