@@ -36,7 +36,9 @@ doi: 10.1109/MAHC.2009.14 URL: [https://ieeexplore.ieee.org/document/4802436](ht
 
 ## More stories
 
-*Disclaimer, NY times changed to a subscription method, so some of the news are not easily accessible :(.*
+*Disclaimer, NY times changed to a subscription method, so some of the news are not easily accessible :( without a subcription.*
+
+* Female code breakers: The hidden figures of the greatest generation. By Jane Carr, CNN. Updated October 11, 2017 [https://edition.cnn.com/2017/10/11/opinions/code-girls-iiza-mundy-opinion/index.html](https://edition.cnn.com/2017/10/11/opinions/code-girls-iiza-mundy-opinion/index.html){:target="_blank"}. Refers to the book "Code Girls"
 
 * The Secret history of Women in Coding. By Clive Thompson. Feb. 13, 2019. The New York Times Magazine [https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html){:target="_blank"}.
 Notes: This reading links to many other awesome reads, it moved to many preconceived ideas in me.
