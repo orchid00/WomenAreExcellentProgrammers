@@ -36,6 +36,8 @@ doi: 10.1109/MAHC.2009.14 URL: [https://ieeexplore.ieee.org/document/4802436](ht
 
 * Elsie Shutt. Oral-History: Jan 12, 2015. Engineering and Technology History [https://ethw.org/Oral-History:Elsie_Shutt](https://ethw.org/Oral-History:Elsie_Shutt){:target="_blank"}.
 
+* Kateryna Yushchenko. Wikipedia.  last edited on 25 May 2020. [https://en.wikipedia.org/wiki/Kateryna_Yushchenko_(scientist)](https://en.wikipedia.org/wiki/Kateryna_Yushchenko_(scientist)){:target="_blank"}. She developed one of the world's first high-level languages with indirect address in programming, called the Address programming language.
+
 ## More stories
 
 *Disclaimer, NY times changed to a subscription method, so some of the news are not easily accessible :( without a subcription.*
