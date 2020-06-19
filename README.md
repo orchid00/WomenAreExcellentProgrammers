@@ -2,7 +2,7 @@
 
 ## Women Are Excellent Programmers
 
-A list of inspirational and thought-provocative **[reads about women who code](https://orchid00.github.io/WomenAreExcellentProgrammers/Reading/)**.
+A list of inspirational and thought-provoking **[reads about women who code](https://orchid00.github.io/WomenAreExcellentProgrammers/Reading/)**.
 
 
 The content on this repo/site is work in Progress, it is only a compilation of stories with cited sources. This is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt by attributing the author, the source, the license and any changes made. Paula Andrea Martinez. [https://github.com/orchid00/WomenAreExcellentProgrammers](https://github.com/orchid00/WomenAreExcellentProgrammers) [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
