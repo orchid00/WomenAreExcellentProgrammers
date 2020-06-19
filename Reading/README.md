@@ -24,7 +24,9 @@ Fully recommend reading Oral histories from Engineering and Technology History w
 
 * Margaret Hamilton, née Margaret Heafield, computer scientist who was one of the first computer software programmers; she created the term software engineer to describe her work. She helped write the computer code for the command and lunar modules used on the Apollo missions to the Moon [https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist](https://www.britannica.com/biography/Margaret-Hamilton-American-computer-scientist){:target="_blank"}.
 
-* Frances E. Holberton. By Steve Lohr. Dec 17, 2001. The New York Times [https://www.nytimes.com/2001/12/17/business/frances-e-holberton-84-early-computer-programmer.html](https://www.nytimes.com/2001/12/17/business/frances-e-holberton-84-early-computer-programmer.html){:target="_blank"}.
+* Frances E. Holberton. By Steve Lohr. Dec 17, 2001. The New York Times [https://www.nytimes.com/2001/12/17/business/frances-e-holberton-84-early-computer-programmer.html](https://www.nytimes.com/2001/12/17/business/frances-e-holberton-84-early-computer-programmer.html){:target="_blank"} Katherine Johnson's work at NASA's Langley Research Center spanned 1953 to 1986 and included calculating the trajectory of the early space launches.
+
+* Katherine Johnson. by Jim Hodges. Aug. 27, 2008 (Last Updated: Feb. 25, 2020). NASA. [https://www.nasa.gov/centers/langley/news/researchernews/rn_kjohnson.html](https://www.nasa.gov/centers/langley/news/researchernews/rn_kjohnson.html){:target="_blank"}.
 
 * Grace Murray Hopper. The Compiler, MIT. [https://lemelson.mit.edu/resources/grace-murray-hopper](https://lemelson.mit.edu/resources/grace-murray-hopper){:target="_blank"}. Notes: She is so clever and witty.
 
