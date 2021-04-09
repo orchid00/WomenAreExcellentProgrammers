@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "orchid00",
+      "name": "Paula Andrea Martinez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9795785?v=4",
+      "profile": "https://github.com/orchid00",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "WomenAreExcellentProgrammers",
+  "projectOwner": "orchid00",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
