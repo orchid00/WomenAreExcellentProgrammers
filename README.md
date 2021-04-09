@@ -13,6 +13,9 @@ Here is a [reading list](./Reading) that I hope will be inspiring for anyone to 
 Thanks for coming by!
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/orchid00.svg?style=social)](https://twitter.com/orchid00) 
+ 
+ ## Contributors
+ 
 
 
-_Last updated:  June 19, 2020_
+_Last updated:  April 10, 2021_
