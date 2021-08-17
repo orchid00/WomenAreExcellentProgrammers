@@ -34,8 +34,7 @@ Fully recommend reading Oral histories from Engineering and Technology History w
 * Jean Sammet: Programming Language Contributor and Historian, and ACM President. By Thomas J. (Tim) Bergin, American University and Editor: Thomas Haig. in IEEE Annals of the History of Computing, vol. 31, no. 1, pp. 76-85, Jan.-March 2009.
 doi: 10.1109/MAHC.2009.14 URL: [https://ieeexplore.ieee.org/document/4802436](https://ieeexplore.ieee.org/document/4802436){:target="_blank"}. Notes: "Jean was con-tacted by someone at Prentice Hall who suggested she write a book on Fortran. When Jean told him that she wasn’t interested in writing about Fortran, she was asked what she would like to write about. When she said she’d like to write about all program-ming languages, she was told: ‘‘Go ahead!’".
 
-* Stephanie Shirley. By Mary Dellsnyder. Nov 26, 2015. Women Entrepenurs. [https://www.entrepreneur.com/article/253252](https://www.entrepreneur.com/article/253252) Founded Freelance Programmers, and many, if not all, of her employees worked from home. One of her first job advertisements read, in part, “many opportunities for
-retired programmers (female) to work part-­time at home,” and described the jobs as a “wonderful chance, but hopeless for anti-­feminists.”
+* Stephanie Shirley. By Mary Deelsnyder. Nov 26, 2015. Women Entrepeneurs. [https://www.entrepreneur.com/article/253252](https://www.entrepreneur.com/article/253252) Founded Freelance Programmers in 1962 in the UK. Many, if not all, of her employees worked from home. One of her first job advertisements read, in part, “many opportunities for retired programmers (female) to work part-time at home,” and described the jobs as a “wonderful chance, but hopeless for anti-feminists.”
 
 * Elsie Shutt. Oral-History: Jan 12, 2015. Engineering and Technology History [https://ethw.org/Oral-History:Elsie_Shutt](https://ethw.org/Oral-History:Elsie_Shutt){:target="_blank"}.
 
