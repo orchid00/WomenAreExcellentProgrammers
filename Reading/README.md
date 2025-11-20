@@ -6,7 +6,7 @@ To inspire you and make you think about this statement, I am gathering a few onl
 
 ## Individual stories
 
-Fully recommend reading Oral histories from Engineering and Technology History wiki [https://ethw.org/Oral-History:List_of_all_Oral_Histories](https://ethw.org/Oral-History:List_of_all_Oral_Histories). Have a look a the "Individual Oral Histories" and look for female names in there <3, here some highlights ordered by surname.
+Fully recommend reading Oral histories from Engineering and Technology History wiki [https://ethw.org/Oral-History:List_of_all_Oral_Histories](https://ethw.org/Oral-History:List_of_all_Oral_Histories){:target="_blank"}. Have a look a the "Individual Oral Histories" and look for female names in there <3, here some highlights ordered by surname.
 
 * Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History
 [Fran Allen](https://ethw.org/Oral-History:Frances_"Fran"_Allen){:target="_blank"}.
