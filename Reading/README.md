@@ -11,8 +11,7 @@ Fully recommend reading Oral histories from Engineering and Technology History w
 * Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History [https://ethw.org/Oral-History:Frances_"Fran"_Allen](https://ethw.org/Oral-History:Frances_%22Fran%22_Allen){:target="_blank"}.
 
 * Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History
-<a target='_blank' href='https://ethw.org/Oral-History:Frances_'" +Fran+ "'_Allen'>Fran Allen</a>.
-[Fran Allen](https://ethw.org/Oral-History:Frances_("Fran")_Allen)
+[Fran Allen](https://ethw.org/Oral-History:Frances_"Fran"_Allen)
 
 * Jean Bartik. By Steve Lohr. Apr 7, 2011. The New York Times [https://www.nytimes.com/2011/04/08/business/08bartik.html](https://www.nytimes.com/2011/04/08/business/08bartik.html){:target="_blank"}.
 
