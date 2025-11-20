@@ -8,8 +8,7 @@ To inspire you and make you think about this statement, I am gathering a few onl
 
 Fully recommend reading Oral histories from Engineering and Technology History wiki [https://ethw.org/Oral-History:List_of_all_Oral_Histories](https://ethw.org/Oral-History:List_of_all_Oral_Histories). Have a look a the "Individual Oral Histories" and look for female names in there <3, here some highlights ordered by surname.
 
-* Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History 
-[https://ethw.org/Oral-History:Frances_%22Fran%22_Allen](https://ethw.org/Oral-History:Frances_%22Fran%22_Allen){:target="_blank"}. EDITS HERE
+* Oral-History: Frances "Fran" Allen. Jan 29, 2019 Engineering and Technology History [https://ethw.org/Oral-History:Frances_"Fran"_Allen](https://ethw.org/Oral-History:Frances_%22Fran%22_Allen){:target="_blank"}. 
 
 * Jean Bartik. By Steve Lohr. Apr 7, 2011. The New York Times [https://www.nytimes.com/2011/04/08/business/08bartik.html](https://www.nytimes.com/2011/04/08/business/08bartik.html){:target="_blank"}.
 
